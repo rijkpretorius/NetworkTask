@@ -29,7 +29,7 @@ This application demonstrates basic network communication between a server and a
 
 1. **Clone the repository:**
    ```bash
-   git clone [Insert your repository URL here]
+   git clone https://github.com/rijkpretorius/NetworkTask.git
    ```
 2. **Open the project:**
    * Launch IntelliJ IDEA.
